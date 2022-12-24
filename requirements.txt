@@ -1,0 +1,5 @@
+aiogram==2.23.1
+peewee==3.15.4
+pyairtable==1.4.0
+pytz==2022.7
+schedule==1.1.0
